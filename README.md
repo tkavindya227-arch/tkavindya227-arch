@@ -1,4 +1,5 @@
 ## Hi I am Tarushi Kavindya 👋
+undergraduate in Software Engineering 
 
 <!--
 **tkavindya227-arch/tkavindya227-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
