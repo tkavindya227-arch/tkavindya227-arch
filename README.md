@@ -17,7 +17,13 @@
 <a href="https://fb.com/tharushi kavindya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharushi kavindya" height="40" width="50" /></a>
 <a href="https://instagram.com/tharushi kavindya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharushi kavindya" height="40" width="50" /></a>
 </p>
+---
+<br><br>
 
+- :school: I am a `Junior` at [Faculty of Computing](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Cinec campus](http://suez.edu.eg/ar/).
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
 
 
 | ![Tharushi's github stats](https://github-readme-stats.vercel.app/api?username=tkavindya227-arch&show_icons=true&theme=tokyonight) | ![Tharushi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tkavindya227-arch&theme=tokyonight) |
