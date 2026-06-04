@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tharushi Kavindya</h1>
-<h3 align="center"> undergraduate in Software Engineering</h3>
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
 
 
 ><p align="center"> <img src="https://komarev.com/ghpvc/?username=tkavindya227-arch&label=Profile%20views&color=0e75b6&style=flat" alt="tkavindya227-arch" /> </p
