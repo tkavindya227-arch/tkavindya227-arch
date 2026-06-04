@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tharushi Kavindya</h1>
 <h3 align="center"> undergraduate in Software Engineering</h3>
 
+
+><p align="center"> <img src="https://komarev.com/ghpvc/?username=tkavindya227-arch&label=Profile%20views&color=0e75b6&style=flat" alt="tkavindya227-arch" /> </p
 ---
 
 <h3 align="center">Languages and Tools:</h3>
@@ -8,7 +10,6 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tkavindya227-arch&label=Profile%20views&color=0e75b6&style=flat" alt="tkavindya227-arch" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -16,3 +17,9 @@
 <a href="https://fb.com/tharushi kavindya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharushi kavindya" height="40" width="50" /></a>
 <a href="https://instagram.com/tharushi kavindya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharushi kavindya" height="40" width="50" /></a>
 </p>
+
+
+
+| ![Tharushi's github stats](https://github-readme-stats.vercel.app/api?username=tkavindya227-arch&show_icons=true&theme=tokyonight) | ![Tharushi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tkavindya227-arch&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkavindya227-arch&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=tkavindya227-arch&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
