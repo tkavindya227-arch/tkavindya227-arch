@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tharushi</h1>
-<h3 align="center">A undergraduate in Software Engineering</h3>
+<h1 align="center">Hi 👋, I'm Tharushi Kavindya</h1>
+<h3 align="center"> undergraduate in Software Engineering</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
